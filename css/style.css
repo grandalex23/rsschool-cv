@@ -1,6 +1,6 @@
 * {
    box-sizing: border-box;
-   border: 1px solid red;
+   /* border: 1px solid red; */
 }
 
 html {
@@ -92,15 +92,12 @@ button {
 }
 
 .section {
-   width: 50%;
+   width: 100%;
 }
 
 img {
-   width: 25%;
+   width: 10%;
 }
-
-
-
 
 
 
