@@ -1,14 +1,15 @@
 # rsschool-cv
 
-**Алексей Лапин**
+**Alex Lapin**
 +7-903-319-5500
-grandalex@yandex.ru
-g23a#7902
+grandalex23@yandex.ru
+@g23a
 
-_Обо мне:_
+_About me:_
 
-Мне 44, работаю системным администратором. В каждой сфере происходят изменения и время от времени следует учиться, развиваться. Работая в представительстве Mercedes-Benz был инициатором 2-х проектов автоматизации процессов: Электронной системы учета заявок (онлайн доступ к web сервисам MB) и электронной системы учета оборудования (на базе 1С). С тех пор увлекся технологиями web-разработки. В настоящий момент закончил обучение в корпоративном университете Сбербанка по специальности Frontend-разработчик и моя цель перейти именно в эту область.
+I'm a 44 y.o. system administrator. I guess each life sphere has some progressive trends and if you want to know of such trends you should take some learning activities for yourself. When I was with Mercedes-Benz I was a initiator of 2 automatization projects: Electronic application accounting system (it's some online system for regulation access to MB service sources) and Electronic equipment accounting system (based on 1C system). In that moment I have wanted to be a front-end developer. Actually it's not simple for me, but I'm trying.
 
+ 
 _Навыки:_
 
 - Верстка одностраничного (лэндинг) сайта (HTML разметка, CSS стили, анимация, адаптивность).
