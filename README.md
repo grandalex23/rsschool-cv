@@ -1,4 +1,4 @@
 # rsschool-cv
 
 
-https://grandalex23.github.io/rsschool-cv/cv.md
+https://grandalex23.github.io/rsschool-cv/
