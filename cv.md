@@ -7,38 +7,41 @@ grandalex23@yandex.ru
 
 _About me:_
 
-I'm a 44 y.o. system administrator. I guess each life sphere has some progressive trends and if you want to be  you should take some learning activities for yourself. When I was with Mercedes-Benz I was a initiator of 2 automatization projects: Electronic application accounting system (it's some online system for regulation access to MB service sources) and Electronic equipment accounting system (based on 1C system). In that moment I have wanted to be a front-end developer. Actually it's not simple for me, but I'm trying.
+I'm a 44 y.o. system administrator. I guess each life sphere has some progressive trends and if you want to be  you should take some learning activities for yourself. When I was with Mercedes-Benz I was a initiator of 2 automatization projects: Electronic application accounting system (it's some online system for regulation access to MB service sources) and Electronic equipment accounting system (based on 1C system). In that moment I have wanted to be a front-end developer. So now, I'm on a way. Actually it's not simple for me, but I'm trying and I know I will do it.
+
 
  
-_Навыки:_
+_Skills:_
 
-- Верстка одностраничного (лэндинг) сайта (HTML разметка, CSS стили, анимация, адаптивность).
+- Layout of a single-page (landing) site (HTML, CSS, animation, adaptability).
 https://grandalex23.github.io/green-corp-landing/
-- Разработка интерактивных компонентов с применение Java-Script.
-- Разработка компонентов интернет-магазина на React (react-dom, react-context, react-hook-form, react-router-dom), применение библиотек AntDisign, MaterialUI.
+- Development of interactive components with JavaScript.
+Development of online store components with React (react-dom, react-context, react-hook-form, react-router-dom), using libraries AntDisign, MaterialUI.
 https://github.com/grandalex23/myapp-dog-food
 
-Кроме этого: Администрирование серверов Windows, Windows Server 2016, Active Directory, DHCP, Настройка DNS, RDP, Резервное копирование, Семейство ОС Windows, Настройка сетевых подключений, Настройка ПК, Настройка ПО, Офисная техника, Администрирование 1С, MS SQL Server, Adobe Photoshop, MS PowerPoint, Работа в команде, VPN, MS Project, NAS Synology, Radmin, AnyDesk
+- AS systen administarator: MS Windows OS family administration, Windows Server 2016, Active Directory, DHCP, DNS, RDP, Backup, Network Connection settings, Harware/Software setting, Office equipment, 1C Administration, MS SQL Server, Adobe Photoshop, MS PowerPoint, VPN, MS Project, NAS Synology, Radmin, AnyDesk
+
+- Additionally: Teamwork and multitasks;
 
 
-Английский язык - уровень В2. Могу поддержать общие темы разговора. Общался по рабочим процессам с коллегами (Mercedes-Benz).
+- English - level B1 (intermediate). I can support general topics in conversation. In past, I communicated  with foreine colleagues in work processes.
 
-_Образование:_
+_Education:_
 
-2001
-Камский Политехнический Институт
-Автомеханический, Диплом инженера механика
+- 2001
+Kama Politechnic Instutute
+Faculty of Automotive Mechanics, Diploma of Mechanical Engineer
 
-_Повышение квалификации, курсы:_
+- 2023
+Frontend developer (Developer of Web and multimedia applications)
+Sberbank Corporate University, diploma
 
-2023
-Frontend разработчик (Разработчик Web и мультимедийных приложений)
-Корпоративный университет Сбербанка, диплом
+_Trainings & courses:_
 
-2022
-Системный администратор
-Онлайн школа IT-Skills, свидетельство
+- 2022
+System Administrator
+Online school IT-Skills, certificate
 
-2018
-Английский язык по программе Total English (уровень Pre-Intermediate, Intermediate)
-LC School, г. Набережные Челны, свидетельство
+- 2018
+English according to the Total English program (Pre-Intermediate, Intermediate level)
+LC School, Naberezhnye Chelny, certificate
