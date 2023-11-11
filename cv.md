@@ -1,8 +1,11 @@
 # rsschool-cv
 
 **Alex Lapin**
+
 +7-903-319-5500
+
 grandalex23@yandex.ru
+
 @g23a
 
 _About me:_
@@ -24,7 +27,7 @@ https://github.com/grandalex23/myapp-dog-food
 - Additionally: Teamwork and multitasks;
 
 
-- English - level B1 (intermediate). I can support general topics in conversation. In past, I communicated  with foreine colleagues in work processes.
+- English - level B1 (intermediate). I can support general topics in conversation. In past, I communicated  with foreign colleagues in work processes.
 
 _Education:_
 
