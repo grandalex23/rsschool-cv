@@ -1,108 +1,120 @@
 * {
-   box-sizing: border-box;
-   /* border: 1px solid red; */
+  box-sizing: border-box;
+  /* border: 1px solid red; */
 }
 
 html {
-   scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
 
 body {
-   background-color: #1a2028;
-   color: #d2e1f5;
-   font-size: 20px;
-   font-family: 'Roboto', sans-serif;
-   min-height: 100vh;
-   margin: 0;
-   padding: 0;
-   display: flex;
-   flex-direction: column;
-   justify-content: space-between;
+  background-color: #1a2028;
+  color: #d2e1f5;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .container {
-   max-width: 1440px;
-   margin: 0 auto;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 
 .header-container {
-   display: flex;
-   justify-content: space-evenly;
-   align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
 
 .header-button {
-   /* width: 15vw; */
-   /* height: 20vh; */
-   /* margin: 30px 20px; */
-   /* line-height: 50px; */
-   background-color: #f15f3d;
+  /* width: 15vw; */
+  /* height: 20vh; */
+  /* margin: 30px 20px; */
+  /* line-height: 50px; */
+  background-color: #f15f3d;
 }
 
 button {
-   transition: .3s;
-   cursor: pointer;
+  transition: .3s;
+  cursor: pointer;
 }
 
 .header-list {
-   display: flex;
-   justify-content: space-evenly;
-   align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 
 }
 
 
 .nav-menu {
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   /* Убираем стандартные маркеры */
-   list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* Убираем стандартные маркеры */
+  list-style: none;
 
 }
 
 .nav-link {
-   /* отступы между элементами списка */
-   padding: 0 20px;
-   line-height: 50px;
-   /* курсор при наведении */
-   cursor: pointer;
-   /* убираем подчеркивание */
-   text-decoration: none;
-   color: #f15f3d;
-   font-size: 22px;
-   line-height: 1.3;
-   transition: 0.3s;
+  /* отступы между элементами списка */
+  padding: 0 20px;
+  line-height: 50px;
+  /* курсор при наведении */
+  cursor: pointer;
+  /* убираем подчеркивание */
+  text-decoration: none;
+  font-size: 22px;
+  line-height: 1.3;
+  /* color: #f15f3d; */
+  /* transition: 0.3s; */
 }
 
 /* что это за два селектион */
 .nav-item a {
-   color: #f15f3d;
-   text-decoration: none;
-   transition: color 0.5s;
+  color: #f15f3d;
+  text-decoration: none;
+  transition: color 0.5s;
 }
 
 .nav-item a:hover {
-   color: #4d2323;
+  color: #4d2323;
+}
+
+a {
+  color: #f15f3d;
+  text-decoration: none;
+  transition: color 0.5s;
+}
+
+a:hover {
+  color: #4d2323;
 }
 
 .main-container {
-   display: flex;
-   flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .section {
-   width: 100%;
+  width: 50%;
+  padding-left: 50px;
+  padding-right: 10px;
 }
 
 img {
-   width: 10%;
+  width: 10%;
 }
 
 
 
 @media (max-width: 768px) {
-   .section {
-      width: 100%;
-   }
+  .section {
+    width: 100%;
+  }
 }
