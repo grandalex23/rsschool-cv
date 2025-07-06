@@ -2,7 +2,7 @@
 
 **Alex Lapin**
 
-+7-903-319-5500
++7-900-111-2233
 
 grandalex23@yandex.ru
 
@@ -13,7 +13,7 @@ _About me:_
 I'm a 44 y.o. system administrator. I guess each life sphere has some progressive trends and if you want to be  you should take some learning activities for yourself. When I was with Mercedes-Benz I was a initiator of 2 automatization projects: Electronic application accounting system (it's some online system for regulation access to MB service sources) and Electronic equipment accounting system (based on 1C system). In that moment I have wanted to be a front-end developer. So now, I'm on a way. Actually it's not simple for me, but I'm trying and I know I will do it.
 
 
- 
+
 _Skills:_
 
 - Layout of a single-page (landing) site (HTML, CSS, animation, adaptability).
