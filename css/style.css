@@ -115,6 +115,10 @@ a:hover {
   width: 20%;
 } */
 
+p {
+  text-align: justify;
+}
+
 .about-me-img {
   height: 220px;
   width: 200px;
@@ -123,9 +127,6 @@ a:hover {
 }
 
 .code-section {
-  /* width: 80%;
-  height: 80%; */
-
   padding: 20px 0;
 }
 
@@ -133,7 +134,7 @@ a:hover {
   font-family: monospace;
   color: #f15f3d;
   margin-left: 50px;
-  padding: 20px 60px 20px 0;
+  padding: 20px 20px 20px 0;
   border-radius: 20px;
   box-shadow: 0 0 20px #3d4c5f;
 }
