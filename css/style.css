@@ -122,11 +122,45 @@ a:hover {
   box-shadow: 0 0 20px #3d4c5f;
 }
 
-.code {
-  width: 80%;
-  height: 80%;
-  border-radius: 12px;
+.code-section {
+  /* width: 80%;
+  height: 80%; */
+
+  padding: 20px 0;
+}
+
+.code-text {
+  font-family: monospace;
+  color: #f15f3d;
+  margin-left: 50px;
+  padding: 20px 60px 20px 0;
+  border-radius: 20px;
   box-shadow: 0 0 20px #3d4c5f;
+}
+
+.code-operator {
+  color: #0000cb;
+
+}
+
+.code-class-name {
+  color: #acc700;
+}
+
+.code-stroke {
+  color: #008800;
+}
+
+.code-property {
+  color: #00f2ff;
+}
+
+.code-number {
+  color: #09ff00;
+}
+
+.code-boolean {
+  color: #0000cb;
 }
 
 .footer {
